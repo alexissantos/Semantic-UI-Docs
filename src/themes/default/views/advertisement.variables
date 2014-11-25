@@ -1,0 +1,8 @@
+/*******************************
+          Advertisement
+*******************************/
+
+@testBackground: @lightBlack;
+@testColor: @white;
+@testFontWeight: bold;
+@testText: 'Ad';
